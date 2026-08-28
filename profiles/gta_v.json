@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "gta_v",
+  "name": "Grand Theft Auto V",
+  "profile_version": 1,
+  "language": "tr",
+  "description": "Grand Theft Auto V için GameLingo oyun profili.",
+  "translation_style": {
+    "natural_turkish": true,
+    "keep_sentences_short": true,
+    "preserve_character_names": true,
+    "preserve_location_names": true,
+    "preserve_tone": true
+  },
+  "protected_names": [
+    "Michael",
+    "Franklin",
+    "Trevor",
+    "Los Santos",
+    "LSPD",
+    "FIB"
+  ],
+  "keywords": [
+    "Los Santos",
+    "LSPD",
+    "FIB"
+  ],
+  "translations": {
+    "cops": "polisler",
+    "getaway car": "kaçış arabası",
+    "wanted level": "aranma seviyesi"
+  }
+}
