@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "games": [
+    {
+      "id": "gta_v",
+      "name": "Grand Theft Auto V",
+      "file_name": "gta_v.json",
+      "profile_version": 1,
+      "available": true
+    },
+    {
+      "id": "red_dead_redemption_2",
+      "name": "Red Dead Redemption 2",
+      "file_name": "red_dead_redemption_2.json",
+      "profile_version": 1,
+      "available": false
+    },
+    {
+      "id": "elden_ring",
+      "name": "Elden Ring",
+      "file_name": "elden_ring.json",
+      "profile_version": 1,
+      "available": false
+    }
+  ]
+}
