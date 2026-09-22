@@ -30,6 +30,16 @@
       "profile_version": 1,
       "download_size_mb": 1,
       "available": false
+    },
+    {
+      "id": "god_of_war_ragnarok",
+      "name": "God of War Ragnarök",
+      "developer": "Santa Monica Studio",
+      "description": "God of War Ragnarök için karakter, mitoloji, diyar ve konuşma üslubu odaklı GameLingo PRO profili.",
+      "file_name": "god_of_war_ragnarok.json",
+      "profile_version": 1,
+      "download_size_mb": 1,
+      "available": true
     }
   ]
 }
