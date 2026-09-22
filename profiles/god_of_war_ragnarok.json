@@ -59,7 +59,9 @@
     "Aesir",
     "Vanir",
     "Jotnar",
-    "Einherjar"
+    "Einherjar",
+    "Jormungandr",
+    "Falki"
   ],
   "keywords": [
     "realm",
@@ -140,6 +142,8 @@
     "By frost": "Bifrost",
     "Bai frost": "Bifrost",
     "Jormungander": "Jormungandr",
-    "Drowp near": "Draupnir"
+    "Drowp near": "Draupnir",
+    "Falky": "Falki",
+    "Falkey": "Falki"
   }
 }
