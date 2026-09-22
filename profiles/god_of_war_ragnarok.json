@@ -61,7 +61,9 @@
     "Jotnar",
     "Einherjar",
     "Jormungandr",
-    "Falki"
+    "Falki",
+    "Spartan Rage",
+    "Mystic Gateway"
   ],
   "keywords": [
     "realm",
@@ -103,7 +105,16 @@
     "I got it.": "Anladım.",
     "You okay, boy?": "İyi misin, oğlum?",
     "Night does not stop our enemies.": "Gece, düşmanlarımızı durdurmaz.",
-    "We can't hide forever.": "Sonsuza dek saklanamayız."
+    "We can't hide forever.": "Sonsuza dek saklanamayız.",
+    "Aye.": "Evet.",
+    "Aye!": "Evet!",
+    "Bollocks.": "Saçmalık.",
+    "Bloody hell.": "Lanet olsun.",
+    "Brother.": "Kardeşim.",
+    "Be ready.": "Hazır ol.",
+    "Stay alert.": "Tetikte ol.",
+    "Hold tight!": "Sıkı tutun!",
+    "Father!": "Baba!"
   },
   "glossary": {
     "Nine Realms": "Dokuz Diyar",
@@ -121,7 +132,10 @@
     "Valkyrie": "Valkür",
     "Valkyries": "Valkürler",
     "Berserker": "Berserker",
-    "draugr": "draugr"
+    "draugr": "draugr",
+    "mystic gateways": "mistik geçitler",
+    "Spartan": "Spartalı",
+    "Spartan Rage": "Spartalı Öfkesi"
   },
   "asr_aliases": {
     "Balder": "Baldur",
