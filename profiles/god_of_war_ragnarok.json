@@ -2,7 +2,7 @@
   "schema_version": 1,
   "id": "god_of_war_ragnarok",
   "name": "God of War Ragnarök",
-  "profile_version": 1,
+  "profile_version": 2,
   "language": "tr",
   "description": "God of War Ragnarök için karakter adları, İskandinav mitolojisi, diyar terminolojisi ve doğal Türkçe diyalog profili.",
   "translation_style": {
@@ -114,7 +114,17 @@
     "Be ready.": "Hazır ol.",
     "Stay alert.": "Tetikte ol.",
     "Hold tight!": "Sıkı tutun!",
-    "Father!": "Baba!"
+    "Father!": "Baba!",
+    "The trees! They're coming down!": "Ağaçlar! Devriliyorlar!",
+    "Coming down!": "Devriliyorlar!",
+    "There is no letting that go.": "Bunun peşini bırakmaz.",
+    "Whatever Loki's supposed to be doing, he's supposed to be doing it now.": "Loki'nin yapması gereken neyse, şimdi yapması gerekiyor.",
+    "Gonna make me pick that one up?": "Onu da bana mı toplatacaksın?",
+    "He crawled through here.": "Buradan sürünerek geçti.",
+    "Time is running out, my love. And there is much to do.": "Zaman tükeniyor, aşkım. Yapacak çok şey var.",
+    "Only sensible to keep a low profile after killing three of his kin.": "Akrabalarından üçünü öldürdükten sonra göz önünde olmamak en mantıklısı.",
+    "Alright, where's that trail gone?": "Tamam, iz nereye gitti?",
+    "We're not alone.": "Yalnız değiliz."
   },
   "glossary": {
     "Nine Realms": "Dokuz Diyar",
@@ -158,6 +168,12 @@
     "Jormungander": "Jormungandr",
     "Drowp near": "Draupnir",
     "Falky": "Falki",
-    "Falkey": "Falki"
+    "Falkey": "Falki",
+    "Specky": "Speki",
+    "Speckie": "Speki",
+    "Fana": "Svanna",
+    "Svana": "Svanna",
+    "Grease": "Greece",
+    "fairies": "Faye"
   }
 }
