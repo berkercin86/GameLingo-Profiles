@@ -2,7 +2,7 @@
   "schema_version": 1,
   "id": "god_of_war_ragnarok",
   "name": "God of War Ragnarök",
-  "profile_version": 3,
+  "profile_version": 4,
   "language": "tr",
   "description": "God of War Ragnarök için karakter adları, İskandinav mitolojisi, diyar terminolojisi ve doğal Türkçe diyalog profili.",
   "translation_style": {
@@ -124,7 +124,12 @@
     "Time is running out, my love. And there is much to do.": "Zaman tükeniyor, aşkım. Yapacak çok şey var.",
     "Only sensible to keep a low profile after killing three of his kin.": "Akrabalarından üçünü öldürdükten sonra göz önünde olmamak en mantıklısı.",
     "Alright, where's that trail gone?": "Tamam, iz nereye gitti?",
-    "We're not alone.": "Yalnız değiliz."
+    "We're not alone.": "Yalnız değiliz.",
+    "Still hungry?": "Hâlâ aç mısın?",
+    "Where's your food?": "Yemeğin nerede?",
+    "The protection stave is near!": "Koruma tılsımı yakında!",
+    "I'm sorry I couldn't take the shot.": "Atışı yapamadığım için üzgünüm.",
+    "Get ready. Fálki!": "Hazır ol! Fálki!"
   },
   "glossary": {
     "Nine Realms": "Dokuz Diyar",
@@ -174,7 +179,12 @@
     "Fana": "Svanna",
     "Svana": "Svanna",
     "Grease": "Greece",
-    "fairies": "Faye"
+    "fairies": "Faye",
+    "Fenner": "Fenrir",
+    "Fenner got": "Fenrir got",
+    "Quite sick Trix": "quite sick Atreus",
+    "protection stain": "protection stave",
+    "Sona": "Svanna"
   },
   "script_rescue_hashes": [
     "000ae7aa4d1f25f307858383cd88a7ec6c4f0a7103d34c56d9f9c3a8728b02fd",
