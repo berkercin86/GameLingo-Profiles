@@ -2,7 +2,7 @@
   "schema_version": 1,
   "id": "god_of_war_ragnarok",
   "name": "God of War Ragnarök",
-  "profile_version": 5,
+  "profile_version": 6,
   "language": "tr",
   "description": "God of War Ragnarök için karakter adları, İskandinav mitolojisi, diyar terminolojisi ve doğal Türkçe diyalog profili.",
   "translation_style": {
@@ -133,7 +133,10 @@
     "Where's your food?": "Yemeğin nerede?",
     "The protection stave is near!": "Koruma tılsımı yakında!",
     "I'm sorry I couldn't take the shot.": "Atışı yapamadığım için üzgünüm.",
-    "Get ready. Fálki!": "Hazır ol! Fálki!"
+    "Get ready. Fálki!": "Hazır ol! Fálki!",
+    "Is it her?": "O mu?",
+    "It's okay, boy.": "Sorun yok, oğlum.",
+    "Care to tell me what went wrong?": "Neyin ters gittiğini anlatmak ister misin?"
   },
   "glossary": {
     "Nine Realms": "Dokuz Diyar",
@@ -196,7 +199,13 @@
     "he gonna still live": "he wants to live",
     "protection stay": "protection stave",
     "protection stain": "protection stave",
-    "Sona": "Svanna"
+    "Sona": "Svanna",
+    "James": "Atreus",
+    "Is it hurt": "Is it her",
+    "Sungry": "Still hungry",
+    "Thrinking is all we ever do": "Training is all we ever do",
+    "Tricky is all we ever do": "Training is all we ever do",
+    "Care to tell me what went on": "Care to tell me what went wrong"
   },
   "script_rescue_hashes": [
     "000ae7aa4d1f25f307858383cd88a7ec6c4f0a7103d34c56d9f9c3a8728b02fd",
