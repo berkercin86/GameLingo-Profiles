@@ -2,7 +2,7 @@
   "schema_version": 1,
   "id": "god_of_war_ragnarok",
   "name": "God of War Ragnarök",
-  "profile_version": 6,
+  "profile_version": 7,
   "language": "tr",
   "description": "God of War Ragnarök için karakter adları, İskandinav mitolojisi, diyar terminolojisi ve doğal Türkçe diyalog profili.",
   "translation_style": {
@@ -136,7 +136,13 @@
     "Get ready. Fálki!": "Hazır ol! Fálki!",
     "Is it her?": "O mu?",
     "It's okay, boy.": "Sorun yok, oğlum.",
-    "Care to tell me what went wrong?": "Neyin ters gittiğini anlatmak ister misin?"
+    "Care to tell me what went wrong?": "Neyin ters gittiğini anlatmak ister misin?",
+    "I will not allow you to pick a fight with gods.": "Tanrılarla kavgaya tutuşmana izin vermeyeceğim.",
+    "The wolf is gone.": "Kurt artık yok.",
+    "How's the lad taking it?": "Oğlan bunu nasıl karşılıyor?",
+    "I have a moment alone with Fenrir before I bury him.": "Fenrir'i gömmeden önce onunla biraz yalnız kalabilir miyim?",
+    "I'd recognize that dour expression anywhere.": "O asık suratı nerede görsem tanırım.",
+    "No, not Fenrir.": "Ah hayır, Fenrir olmasın."
   },
   "glossary": {
     "Nine Realms": "Dokuz Diyar",
@@ -205,7 +211,16 @@
     "Sungry": "Still hungry",
     "Thrinking is all we ever do": "Training is all we ever do",
     "Tricky is all we ever do": "Training is all we ever do",
-    "Care to tell me what went on": "Care to tell me what went wrong"
+    "Care to tell me what went on": "Care to tell me what went wrong",
+    "Breaking is all we ever do": "Training is all we ever do",
+    "The train ranking is all we ever do": "Training is all we ever do",
+    "I'll allow you to pick a fight with God": "I will not allow you to pick a fight with gods",
+    "Can't you have to tell me what went wrong": "Care to tell me what went wrong",
+    "The war has gone": "The wolf is gone",
+    "How's the light taking it": "How's the lad taking it",
+    "Elmer before I bury him": "Fenrir before I bury him",
+    "Recognize that general expression anyway": "I'd recognize that dour expression anywhere",
+    "Not for friendlier": "No, not Fenrir"
   },
   "script_rescue_hashes": [
     "000ae7aa4d1f25f307858383cd88a7ec6c4f0a7103d34c56d9f9c3a8728b02fd",
