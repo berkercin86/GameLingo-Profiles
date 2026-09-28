@@ -35,9 +35,9 @@
       "id": "god_of_war_ragnarok",
       "name": "God of War Ragnarök",
       "developer": "Santa Monica Studio",
-      "description": "God of War Ragnarök için geniş script parmak izi, karakter, mitoloji, ASR düzeltme ve doğal Türkçe diyalog profili.",
+      "description": "Ragnarök v8: karakter ve diyar sözlüğü, Türkçe terminoloji, kısa diyaloglar, kontrollü ASR düzeltmeleri ve senaryo parmak izleri.",
       "file_name": "god_of_war_ragnarok.json",
-      "profile_version": 7,
+      "profile_version": 8,
       "download_size_mb": 1,
       "available": true
     }
