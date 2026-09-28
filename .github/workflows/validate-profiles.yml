@@ -1,0 +1,31 @@
+name: Profile quality and compatibility
+
+on:
+  push:
+    branches:
+      - main
+      - 'feat/**'
+      - 'fix/**'
+    paths:
+      - 'profiles/**'
+      - 'tests/**'
+      - '.github/workflows/validate-profiles.yml'
+  pull_request:
+    paths:
+      - 'profiles/**'
+      - 'tests/**'
+      - '.github/workflows/validate-profiles.yml'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile files
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Validate catalogs and Ragnarök quality rules
+        run: python -m unittest discover -s tests -v
