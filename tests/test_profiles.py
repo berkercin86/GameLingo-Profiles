@@ -70,12 +70,12 @@ class CatalogContract(unittest.TestCase):
                 all(len(x) <= 1000 for x in p.get("translations", {}).values())
             )
 
-    def test_ragnarok_v8_payload(self):
+    def test_ragnarok_v9_payload(self):
         p = self.ragnarok
-        self.assertEqual(p["profile_version"], 8)
+        self.assertEqual(p["profile_version"], 9)
         self.assertGreaterEqual(len(p["protected_names"]), 70)
         self.assertGreaterEqual(len(p["glossary"]), 80)
-        self.assertGreaterEqual(len(p["translations"]), 85)
+        self.assertGreaterEqual(len(p["translations"]), 107)
         self.assertEqual(len(p["script_rescue_hashes"]), 3621)
         self.assertEqual(
             len(p["script_rescue_hashes"]),
@@ -93,6 +93,18 @@ class CatalogContract(unittest.TestCase):
                          "Draupnir Mızrağı")
         self.assertEqual(p["glossary"]["Sonic Arrows"],
                          "Sonik Oklar")
+        self.assertEqual(
+            p["translations"]["At least it didn't suffer."],
+            "En azından acı çekmedi.",
+        )
+        self.assertEqual(
+            p["translations"]["This is the natural order of things."],
+            "Doğanın düzeni budur.",
+        )
+        self.assertEqual(
+            p["asr_aliases"]["Emir himself sits atop your shoulders"],
+            "Ymir himself sits atop your shoulders",
+        )
 
     def test_short_observed_name_variants_only(self):
         aliases = self.ragnarok["asr_aliases"]
