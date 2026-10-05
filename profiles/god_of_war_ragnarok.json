@@ -2,9 +2,9 @@
   "schema_version": 1,
   "id": "god_of_war_ragnarok",
   "name": "God of War Ragnarök",
-  "profile_version": 9,
+  "profile_version": 10,
   "language": "tr",
-  "description": "God of War Ragnarök v9: 2 Ekim gerçek telefon testinden doğrulanan güvenli tam-replik Türkçe düzeltmeleri, hedefli ASR phrase düzeltmeleri, karakter/diyar terminolojisi ve senaryo parmak izleri.",
+  "description": "God of War Ragnarök v10: 5 Ekim telefon testinden doğrulanan Fenrir/stave/Freya replik düzeltmeleri, daha güvenli kısa-ASR normalizasyonları, doğal Türkçe ve önceki script kanıtları.",
   "translation_style": {
     "natural_turkish": true,
     "keep_sentences_short": true,
@@ -236,7 +236,14 @@
     "A problem doesn't have to reach our doorstep for it to be our responsibility.": "Bir sorunun sorumluluğumuz olması için kapımıza kadar gelmesi gerekmez.",
     "If we have the power to limit the harm it could cause, we should act.": "Verebileceği zararı azaltma gücümüz varsa harekete geçmeliyiz.",
     "Who are we to hide and do nothing?": "Saklanıp hiçbir şey yapmamak bize yakışır mı?",
-    "We are not hiding.": "Saklanmıyoruz."
+    "We are not hiding.": "Saklanmıyoruz.",
+    "Get ready.": "Hazır ol.",
+    "The stave is not far.": "Tılsım çok uzakta değil.",
+    "You must prepare yourself.": "Hazırlanmalısın.",
+    "I'll be okay.": "Ben iyi olacağım.",
+    "Someday. But the worst is still ahead of us.": "Bir gün. Ama en kötüsü hâlâ bizi bekliyor.",
+    "I killed her son.": "Oğlunu öldürdüm.",
+    "We're through the stave.": "Tılsımı geçtik."
   },
   "glossary": {
     "Nine Realms": "Dokuz Diyar",
@@ -399,7 +406,23 @@
     "Not not friendlier": "No not Fenrir",
     "Hablum doesn't have to reach our doorstep": "A problem doesn't have to reach our doorstep",
     "Mr State is not far": "the stave is not far",
-    "As as I said you wouldn't": "as I said he would"
+    "As as I said you wouldn't": "as I said he would",
+    "Defender got some sleep": "Fenrir got some sleep",
+    "Is it is it hurt": "Is it her",
+    "Is this it hurt": "Is it her",
+    "the state is not far": "the stave is not far",
+    "Mr. Steeders not far": "the stave is not far",
+    "Protection state is near": "The protection stave is near",
+    "We're through through the state": "We're through the stave",
+    "We're through the state": "We're through the stave",
+    "I hate you Mr Sun": "I killed her son",
+    "I hate you, Mr. Sun": "I killed her son",
+    "Some day. But the worst is still it": "Someday. But the worst is still ahead of us",
+    "Prepare yourself": "You must prepare yourself",
+    "Baby okay": "I'll be okay",
+    "Baby, okay": "I'll be okay",
+    "I'll be be okay": "I'll be okay",
+    "But you you can rest now": "But you can rest now"
   },
   "script_rescue_hashes": [
     "000ae7aa4d1f25f307858383cd88a7ec6c4f0a7103d34c56d9f9c3a8728b02fd",
