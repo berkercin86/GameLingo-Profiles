@@ -35,9 +35,9 @@
       "id": "god_of_war_ragnarok",
       "name": "God of War Ragnarök",
       "developer": "Santa Monica Studio",
-      "description": "Ragnarök v9: 2 Ekim telefon testinden doğrulanan hedefli ASR phrase düzeltmeleri, doğal Türkçe replikler, karakter/diyar terminolojisi ve script parmak izleri.",
+      "description": "Ragnarök v10: 5 Ekim telefon testinden doğrulanan Fenrir/stave/Freya phrase düzeltmeleri, doğal Türkçe, karakter/diyar terminolojisi ve script kanıtları.",
       "file_name": "god_of_war_ragnarok.json",
-      "profile_version": 9,
+      "profile_version": 10,
       "download_size_mb": 1,
       "available": true
     }
