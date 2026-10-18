@@ -2,9 +2,9 @@
   "schema_version": 1,
   "id": "god_of_war_ragnarok",
   "name": "God of War Ragnarök",
-  "profile_version": 10,
+  "profile_version": 11,
   "language": "tr",
-  "description": "God of War Ragnarök v10: 5 Ekim telefon testinden doğrulanan Fenrir/stave/Freya replik düzeltmeleri, daha güvenli kısa-ASR normalizasyonları, doğal Türkçe ve önceki script kanıtları.",
+  "description": "God of War Ragnarök v11: 18 Ekim ekran kaydından doğrulanan Fimbulwinter/dour/hunt/Fenrir ve kısa diyalog phrase düzeltmeleri; genel konuşmayı zorlamayan hedefli ASR alias'ları.",
   "translation_style": {
     "natural_turkish": true,
     "keep_sentences_short": true,
@@ -243,7 +243,9 @@
     "I'll be okay.": "Ben iyi olacağım.",
     "Someday. But the worst is still ahead of us.": "Bir gün. Ama en kötüsü hâlâ bizi bekliyor.",
     "I killed her son.": "Oğlunu öldürdüm.",
-    "We're through the stave.": "Tılsımı geçtik."
+    "We're through the stave.": "Tılsımı geçtik.",
+    "Someday.": "Bir gün.",
+    "This is your hunt.": "Bu senin avın."
   },
   "glossary": {
     "Nine Realms": "Dokuz Diyar",
@@ -422,7 +424,18 @@
     "Baby okay": "I'll be okay",
     "Baby, okay": "I'll be okay",
     "I'll be be okay": "I'll be okay",
-    "But you you can rest now": "But you can rest now"
+    "But you you can rest now": "But you can rest now",
+    "Some daily": "Someday",
+    "The first time it was running out": "Time is running out",
+    "the prophecy said M winter leads to Ragnarok": "The prophecy say Fimbulwinter leads to Ragnarok",
+    "I recognize that doubt expression anywhere": "I'd recognize that dour expression anywhere",
+    "You have to tell me what went wrong": "Care to tell me what went wrong",
+    "There's the line taking it": "How's the lad taking it",
+    "Not not familiar": "No, not Fenrir",
+    "This is your aunt": "This is your hunt",
+    "He left on his way inside": "He found his way inside",
+    "You're not a tidy": "We are not hiding",
+    "we took to war with that guard": "lead to war with Asgard"
   },
   "script_rescue_hashes": [
     "000ae7aa4d1f25f307858383cd88a7ec6c4f0a7103d34c56d9f9c3a8728b02fd",
