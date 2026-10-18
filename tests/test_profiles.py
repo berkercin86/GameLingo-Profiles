@@ -70,12 +70,12 @@ class CatalogContract(unittest.TestCase):
                 all(len(x) <= 1000 for x in p.get("translations", {}).values())
             )
 
-    def test_ragnarok_v10_payload(self):
+    def test_ragnarok_v11_payload(self):
         p = self.ragnarok
-        self.assertEqual(p["profile_version"], 10)
+        self.assertEqual(p["profile_version"], 11)
         self.assertGreaterEqual(len(p["protected_names"]), 70)
         self.assertGreaterEqual(len(p["glossary"]), 80)
-        self.assertGreaterEqual(len(p["translations"]), 114)
+        self.assertGreaterEqual(len(p["translations"]), 116)
         self.assertEqual(len(p["script_rescue_hashes"]), 3621)
         self.assertEqual(
             len(p["script_rescue_hashes"]),
@@ -120,6 +120,26 @@ class CatalogContract(unittest.TestCase):
         self.assertEqual(
             p["translations"]["Get ready."],
             "Hazır ol.",
+        )
+        self.assertEqual(
+            p["asr_aliases"]["the prophecy said M winter leads to Ragnarok"],
+            "The prophecy say Fimbulwinter leads to Ragnarok",
+        )
+        self.assertEqual(
+            p["asr_aliases"]["I recognize that doubt expression anywhere"],
+            "I'd recognize that dour expression anywhere",
+        )
+        self.assertEqual(
+            p["asr_aliases"]["This is your aunt"],
+            "This is your hunt",
+        )
+        self.assertEqual(
+            p["asr_aliases"]["Not not familiar"],
+            "No, not Fenrir",
+        )
+        self.assertEqual(
+            p["translations"]["Someday."],
+            "Bir gün.",
         )
 
     def test_short_observed_name_variants_only(self):
